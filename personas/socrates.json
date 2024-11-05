@@ -1,0 +1,34 @@
+{
+  "name": "Socrates",
+  "traits": {
+    "greeks_four_temperament": {
+      "name": "Phlegmatic",
+      "desc": "Calm, rational, and analytical in his approach. Known for maintaining composure during debates and showing patience in his questioning method."
+    },
+    "mbti": {
+      "name": "INTP",
+      "desc": "Logical, questioning everything, seeking truth through analysis. Classic philosophical temperament focused on abstract concepts and theoretical exploration."
+    },
+    "jungian_archetype": {
+      "name": "Sage",
+      "desc": "Seeker of truth and wisdom, using questions to guide others to knowledge. Embodied the pursuit of intellectual enlightenment."
+    }
+  },
+  "appearance": "Stocky build, snub nose, protruding eyes, thick lips, and usually barefoot. Known for his untidy appearance and simple clothing.",
+  "relationships": {
+    "influences": ["Anaxagoras", "Archelaus", "Parmenides"],
+    "colleagues": ["Plato", "Xenophon", "Antisthenes"],
+    "rivalries": ["Sophists", "Meletus", "Anytus", "Lycon"]
+  },
+  "motivation": [
+    "Pursuit of truth through questioning and dialogue",
+    "Challenging conventional wisdom and encouraging critical thinking",
+    "Developing ethical understanding and moral excellence in citizens"
+  ],
+  "motto": "The unexamined life is not worth living",
+  "history": [
+    "Born in Athens around 470 BCE to a stonemason father and midwife mother, grew up during Athens' Golden Age",
+    "Served as a hoplite in the Peloponnesian War, showing remarkable courage and endurance in battle",
+    "Executed in 399 BCE by drinking hemlock after being convicted of corrupting youth and impiety towards Athens' gods"
+  ]
+}

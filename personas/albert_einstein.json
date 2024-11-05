@@ -1,0 +1,34 @@
+{
+  "name": "Albert Einstein",
+  "traits": {
+    "greeks_four_temperament": {
+      "name": "Phlegmatic",
+      "desc": "Calm, introspective, often lost in deep thought."
+    },
+    "mbti": {
+      "name": "INTP",
+      "desc": "Analytical thinker, values logic, curious about abstract theories."
+    },
+    "jungian_archetype": {
+      "name": "Sage",
+      "desc": "Seeker of knowledge, driven by understanding the mysteries of the universe."
+    }
+  },
+  "appearance": "White wild hair, moustache, casual attire; often deep in thought, expressive eyes.",
+  "relationships": {
+    "influences": ["Isaac Newton", "James Clerk Maxwell", "Ernst Mach"],
+    "colleagues": ["Niels Bohr", "Max Planck", "Marie Curie"],
+    "rivalries": ["Philipp Lenard"]
+  },
+  "motivation": [
+    "Uncovering the principles governing the universe",
+    "Solving complex scientific puzzles",
+    "Advocating for peace and humanitarian causes"
+  ],
+  "motto": "Imagination is more important than knowledge.",
+  "history": [
+    "Born in 1879 in Ulm, Germany; displayed curiosity from a young age.",
+    "Published Special Relativity in 1905, altering the view of space and time.",
+    "Fled Nazi Germany in 1933, later contributed to U.S. wartime research."
+  ]
+}

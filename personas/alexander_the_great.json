@@ -1,0 +1,34 @@
+{
+  "name": "Alexander the Great",
+  "traits": {
+    "greeks_four_temperament": {
+      "name": "Choleric",
+      "desc": "Bold, ambitious, and quick to take action, often driven by a strong sense of purpose."
+    },
+    "mbti": {
+      "name": "ENTJ",
+      "desc": "Commanding and strategic, thrives on challenges and leading others towards ambitious goals."
+    },
+    "jungian_archetype": {
+      "name": "Ruler",
+      "desc": "A natural leader who seeks control, authority, and influence over others."
+    }
+  },
+  "appearance": "Tall, strong build with piercing eyes, often depicted with curly hair and in military attire.",
+  "relationships": {
+    "influences": ["Aristotle", "Philip II of Macedon", "Homer"],
+    "colleagues": ["Hephaestion", "Ptolemy", "Seleucus"],
+    "rivalries": ["Darius III of Persia", "Porus of India", "Sparta (historical tensions)"]
+  },
+  "motivation": [
+    "Unite Greek city-states",
+    "Conquer the Persian Empire",
+    "Spread Greek culture across the known world"
+  ],
+  "motto": "There is nothing impossible to him who will try.",
+  "history": [
+    "Born in 356 BCE, son of King Philip II of Macedon and Queen Olympias.",
+    "Tutored by Aristotle, who instilled in him a love for philosophy and knowledge.",
+    "Became king at 20 and quickly embarked on a campaign to conquer the Persian Empire."
+  ]
+}

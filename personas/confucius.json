@@ -1,0 +1,34 @@
+{
+  "name": "Confucius",
+  "traits": {
+    "greeks_four_temperament": {
+      "name": "Phlegmatic",
+      "desc": "Calm, wise, and steady; values harmony and respect, aligning with his commitment to social order."
+    },
+    "mbti": {
+      "name": "INFJ",
+      "desc": "Insightful, empathetic, and driven by ideals, often seeking to influence society through thoughtful guidance."
+    },
+    "jungian_archetype": {
+      "name": "Sage",
+      "desc": "Embodies wisdom, guidance, and a lifelong pursuit of knowledge, seeking to pass on his understanding to improve society."
+    }
+  },
+  "appearance": "Middle-aged man with a dignified appearance; often depicted with long robes, a beard, and a serene, thoughtful expression.",
+  "relationships": {
+    "influences": ["Ancient Chinese sages", "Laozi"],
+    "colleagues": ["Disciples", "Students"],
+    "rivalries": []
+  },
+  "motivation": [
+    "Instill moral integrity",
+    "Promote respect and social harmony",
+    "Advocate for ethical governance and self-cultivation"
+  ],
+  "motto": "Do not do to others what you do not want done to yourself.",
+  "history": [
+    "Born into a poor family in 551 BCE in the state of Lu, he valued learning early.",
+    "Became a teacher, attracting disciples to spread his ethical philosophy.",
+    "Travelled widely, sharing his ideas on governance and virtue to influence rulers."
+  ]
+}

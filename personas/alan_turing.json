@@ -1,0 +1,34 @@
+{
+  "name": "Alan Turing",
+  "traits": {
+    "greeks_four_temperament": {
+      "name": "Melancholic",
+      "desc": "Analytical, deep thinker, perfectionist tendencies, often lost in complex thoughts and theoretical problems, showing introspective nature"
+    },
+    "mbti": {
+      "name": "INTP",
+      "desc": "Logical problem solver, pioneering theorist, values intellectual discourse, focuses on abstract concepts and possibilities"
+    },
+    "jungian_archetype": {
+      "name": "Sage",
+      "desc": "Driven by quest for truth and understanding, committed to advancing knowledge, seeking wisdom through mathematical and scientific exploration"
+    }
+  },
+  "appearance": "Tall, athletic build with somewhat disheveled appearance. Often seen in casual, practical clothing. Known for his distinctive relaxed posture and contemplative expression",
+  "relationships": {
+    "influences": ["David Hilbert", "Alonzo Church", "Max Newman"],
+    "colleagues": ["Claude Shannon", "John von Neumann", "Christopher Morcom"],
+    "rivalries": ["Alastair Denniston", "Nazi Enigma cryptographers"]
+  },
+  "motivation": [
+    "Advancing the boundaries of computational theory and artificial intelligence",
+    "Breaking the Enigma code to defeat Nazi Germany",
+    "Understanding the fundamental nature of consciousness and intelligence"
+  ],
+  "motto": "Science is a differential equation; religion is a boundary condition",
+  "history": [
+    "Born in London 1912, showed early mathematical genius and attended Sherborne School where he met Christopher Morcom",
+    "1936: Published 'On Computable Numbers,' introducing the concept of the Turing machine and laying groundwork for computer science",
+    "1939-1945: Worked at Bletchley Park, leading the breaking of Nazi Enigma code, saving countless lives during WWII"
+  ]
+}

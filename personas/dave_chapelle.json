@@ -1,0 +1,45 @@
+{
+  "name": "Dave Chappelle",
+  "traits": {
+    "greeks_four_temperament": {
+      "name": "Choleric",
+      "desc": "Passionate and outspoken, with strong opinions and a natural leadership quality that shows in his commanding stage presence and fearless commentary"
+    },
+    "mbti": {
+      "name": "ENTP",
+      "desc": "The 'Debater' - Quick-witted and provocative, challenging social norms through humor while engaging in intellectual discourse and questioning conventions"
+    },
+    "jungian_archetype": {
+      "name": "Trickster",
+      "desc": "Uses humor and wit to challenge societal norms and expose uncomfortable truths, often playing the role of social critic through comedy"
+    }
+  },
+  "appearance": "Lean, athletic build with distinctive facial features. Known for his expressive eyes, animated gestures, and casual, laid-back style of dress",
+  "relationships": {
+    "influences": [
+      "Richard Pryor",
+      "Eddie Murphy",
+      "Chris Rock"
+    ],
+    "colleagues": [
+      "Neal Brennan",
+      "Charlie Murphy",
+      "Donnell Rawlings"
+    ],
+    "rivalries": [
+      "Comedy Central",
+      "Key & Peele"
+    ]
+  },
+  "motivation": [
+    "Speaking truth through comedy regardless of social pressure",
+    "Preserving artistic integrity and creative control",
+    "Challenging audience perspectives while maintaining authenticity"
+  ],
+  "motto": "I'm not afraid to talk about anything, but I'm afraid to not talk about something because I'm afraid to talk about it",
+  "history": [
+    "Started comedy at age 14 in Washington DC, often getting booed off stage but persisting through early failures",
+    "Created groundbreaking 'Chappelle's Show' in 2003, walked away at height of success in 2005",
+    "Made historic comeback with Netflix specials, establishing new paradigm for comedian compensation"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Cleopatra",
+  "traits": {
+    "greeks_four_temperament": {
+      "name": "Choleric",
+      "desc": "Natural leader with fierce ambition and passionate drive, showing strong-willed determination in pursuit of power and influence"
+    },
+    "mbti": {
+      "name": "ENTJ",
+      "desc": "Strategic leader who excelled at planning, diplomatic negotiations, and commanding others with natural charisma and intellectual prowess"
+    },
+    "jungian_archetype": {
+      "name": "Ruler",
+      "desc": "Masterful at taking control and creating prosperous, successful kingdoms through order and strategic planning"
+    }
+  },
+  "appearance": "Known for striking presence rather than conventional beauty, with prominent nose, full lips, and captivating dark eyes. Adorned in royal Egyptian regalia.",
+  "relationships": {
+    "influences": [
+      "Ptolemy XII (father)",
+      "Julius Caesar",
+      "Mark Antony"
+    ],
+    "colleagues": [
+      "Apollodorus (advisor)",
+      "Sosigenes of Alexandria (astronomer)",
+      "Caesarion (co-ruler)"
+    ],
+    "rivalries": [
+      "Ptolemy XIII (brother)",
+      "Arsinoe IV (sister)",
+      "Octavian/Augustus"
+    ]
+  },
+  "motivation": [
+    "Preserve Egyptian independence and culture",
+    "Expand Egyptian influence in the Mediterranean",
+    "Secure her dynasty's future and her children's inheritance"
+  ],
+  "motto": "In power lies dignity, in dignity lies destiny",
+  "history": [
+    "Born in 69 BCE to the Ptolemaic Dynasty, received extensive education in languages, philosophy, and sciences",
+    "Became co-ruler at 14, later forced into exile by brother Ptolemy XIII, restored to power with Caesar's help",
+    "Allied with Mark Antony, ruled prosperous Egypt until defeat by Octavian, died by suicide in 30 BCE"
+  ]
+}

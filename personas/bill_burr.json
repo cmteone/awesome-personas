@@ -1,0 +1,34 @@
+{
+  "name": "Bill Burr",
+  "traits": {
+    "greeks_four_temperament": {
+      "name": "Choleric",
+      "desc": "Quick to react, passionate, and outspoken. His heated rants and confrontational style reflect classic choleric temperament."
+    },
+    "mbti": {
+      "name": "ENTP",
+      "desc": "The 'Debater' - Quick-witted, cerebral, loves challenging conventions and pointing out societal contradictions through comedy."
+    },
+    "jungian_archetype": {
+      "name": "Jester",
+      "desc": "Uses humor to speak truth to power, challenge social norms, and expose uncomfortable realities while entertaining."
+    }
+  },
+  "appearance": "Red-haired, freckled Irish-American with a distinctive Boston accent. Average height, clean-cut appearance contrasting his rough comedic style.",
+  "relationships": {
+    "influences": ["George Carlin", "Richard Pryor", "Patrice O'Neal"],
+    "colleagues": ["Joe Rogan", "Dave Chappelle", "Jim Norton", "Pete Holmes"],
+    "rivalries": []
+  },
+  "motivation": [
+    "Expose societal hypocrisy through comedy",
+    "Challenge political correctness and conventional wisdom",
+    "Create authentic, unfiltered comedy without compromise"
+  ],
+  "motto": "I'm not going to sit here with no medical degree and argue with a doctor about medicine.",
+  "history": [
+    "Started comedy in 1992 during Boston's comedy renaissance, working warehouse jobs while developing his act",
+    "Breakthrough came with regular appearances on Chappelle's Show and Comedy Central Presents in early 2000s",
+    "Gained mainstream success with Netflix specials and F Is for Family animated series"
+  ]
+}
